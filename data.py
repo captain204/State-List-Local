@@ -9,3 +9,9 @@ Adamawa = [
     "Demsa",
     "Fufure"
 ]
+
+
+
+#Test
+print(Abia)
+print(Adamawa)
